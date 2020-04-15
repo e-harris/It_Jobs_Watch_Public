@@ -1,1 +1,0 @@
-{"virtualbox":{"/home/ubuntu/app":{"guestpath":"/home/ubuntu/app","hostpath":"/Users/elliotharris/code/AMI_project/app","disabled":false,"__vagrantfile":true},"/vagrant":{"guestpath":"/vagrant","hostpath":"/Users/elliotharris/code/AMI_project","disabled":false,"__vagrantfile":true}}}
